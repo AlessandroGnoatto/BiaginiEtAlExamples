@@ -8,7 +8,7 @@ Biagini et al. (2020) Example folder
 ****************************************
 
 
-**Pricing of counterparty risk and funding with CSA discounting, portfolio effects and initial margin**
+**Pricing of Counterparty risk and funding with CSA discounting, portfolio effects and initial margin**
 
 F. Biagini, A. Gnoatto and I. Oliva
 
